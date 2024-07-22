@@ -68,8 +68,3 @@ You can customize the system message, max tokens, temperature, and top-p values 
 For more information on `huggingface_hub` Inference API support, please check the [docs](https://huggingface.co/docs/huggingface_hub/v0.22.2/en/guides/inference).
 
 ---
-
-Feel free to contribute to the project by opening issues or submitting pull requests.
-```
-
-Replace `https://github.com/yourusername/indian-dance-form-chatbot.git` with the actual URL of your GitHub repository.
