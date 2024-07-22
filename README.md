@@ -60,10 +60,6 @@ You can customize the system message, max tokens, temperature, and top-p values 
 - Can you recommend a beginner-friendly Indian dance style?
 - What is the significance of mudras in classical Indian dance?
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 
 - [Gradio](https://www.gradio.app/) for the easy-to-use interface
