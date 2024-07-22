@@ -27,7 +27,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/indian-dance-form-chatbot.git
+git clone https://github.com/AvneetKaur9997/indian-dance-form-chatbot.git
 cd indian-dance-form-chatbot
 ```
 
